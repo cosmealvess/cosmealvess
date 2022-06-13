@@ -1,6 +1,7 @@
 ### Hello, I'm Cosme Alves 🖐️
 
 EN
+
 Currently studying Swift through Udemy in the IOS & Swift Course - The Complete IOS App Development Bootcamp, and also a student of the ViewCode Fundamentals course at BackFront Academy.
 
 BR
