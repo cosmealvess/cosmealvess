@@ -8,6 +8,8 @@ BR
 
 Atualmente estudante de Swift através da Udemy no Curso IOS & Swift - Curso completo para o Desenvolvimento de Aplicativos IOS - Bootcamp e também estudante do curso ViewCode Descomplicado da BackFront Academy.
 
+
+
 ![Cosme's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmealvess&count_private=true_cosmealvess&show_icons=true&theme=dark)
 
 
