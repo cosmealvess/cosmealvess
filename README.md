@@ -9,6 +9,9 @@ BR
 Atualmente estudante de Swift através da Udemy no Curso IOS & Swift - Curso completo para o Desenvolvimento de Aplicativos IOS - Bootcamp e também estudante do curso ViewCode Descomplicado da BackFront Academy.
 
 
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=flag-brazil">    <img  alt="cosmealvess's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/cosmealvess?cardType=github&theme=flag-brazil" />  </a>
+
+
 ![Cosme's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmealvess&count_private=true_cosmealvess&show_icons=true&theme=dark)
 
 
