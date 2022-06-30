@@ -14,4 +14,4 @@ Atualmente estudante de Swift através da Udemy no Curso IOS & Swift - Curso com
 
 
 ![blog](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![blog](https://img.shields.io/badge/Xcode-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
