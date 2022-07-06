@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello I'm Cosme Alves <img scr="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" whidth="28">
+Hello I'm Cosme Alves 
   </h1>
   
 
